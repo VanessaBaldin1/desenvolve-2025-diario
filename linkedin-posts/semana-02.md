@@ -38,7 +38,8 @@ Aprender como scripts funcionam por baixo dos panos ajuda a escrever melhor até
 🧪 Projeto da Semana:
 Experimentos no terminal com loops, condições e simulações de login usando do...while. Tudo documentado e versionado no GitHub:
 
-🔗 Repositório: 
+🔗 Repositório: [github.com/VanessaBaldin1/desenvolve-2025-diario](https://github.com/VanessaBaldin1/desenvolve-2025-diario)
+
 
 Agradeço aos mentores do programa e à equipe do #GrupoBoticário pela jornada que só está começando! 🚀✨
 
